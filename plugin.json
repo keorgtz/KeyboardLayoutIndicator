@@ -1,0 +1,15 @@
+{
+    "id": "keyboardLayoutIndicator",
+    "name": "Keyboard Layout",
+    "description": "Beautiful Material keyboard layout indicator",
+    "version": "2.0.0",
+    "author": "Keorsoft",
+    "icon": "keyboard",
+    "type": "widget",
+    "component": "./KeyboardLayout.qml",
+    "settings": "./KeyboardLayoutSettings.qml",
+    "permissions": [
+        "settings_read",
+        "settings_write"
+    ]
+}
